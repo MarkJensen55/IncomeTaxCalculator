@@ -17,13 +17,21 @@ namespace IncomeTaxCalculator
             bool isvalid = false;
 
             // loop untill a valid number is input
-            while (isvalid == false)
+
+            // while loop do do while loop
+            //while (isvalid == false)
+            //{
+            //    Console.WriteLine("Please enter your taxable income:");
+            //    string inputString = Console.ReadLine();
+            //    isvalid = Decimal.TryParse(inputString, out taxable);
+            //}
+
+            do
             {
                 Console.WriteLine("Please enter your taxable income:");
                 string inputString = Console.ReadLine();
                 isvalid = Decimal.TryParse(inputString, out taxable);
-            }
-            
+            } while (isvalid == false);
 
             //taxable =  (inputString != null) ?
             //  Decimal.Parse(inputString) :
