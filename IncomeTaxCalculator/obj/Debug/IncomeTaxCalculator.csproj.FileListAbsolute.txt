@@ -1,0 +1,6 @@
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\IncomeTaxCalculator.exe.config
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\IncomeTaxCalculator.exe
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\IncomeTaxCalculator.pdb
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.exe
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.pdb
